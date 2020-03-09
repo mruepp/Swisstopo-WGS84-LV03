@@ -60,6 +60,7 @@ Ces formules sont avant tout destinées à des applications de navigation et ne 
 	- [Sacha Bron](https://github.com/BinaryBrain)
 	- [Basile Vu](https://github.com/Flagoul)
 	- [Michael Monay](https://github.com/micmonay)
+	- [Michael Ruepp](https://github.com/mruepp)
 
 **Feel free to add some piece of code or additionnal language and do a pull request**. To make it easy:
 
